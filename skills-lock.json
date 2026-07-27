@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "mspm0-ccs": {
+      "source": "mc3545dada/mspm0-skill",
+      "sourceType": "github",
+      "skillPath": "skills/mspm0-ccs/SKILL.md",
+      "computedHash": "eb0cf78bf5610e8fc8e49627df9c950ea9032d389baa7a1ee27a6d9f0ec2c544"
+    }
+  }
+}

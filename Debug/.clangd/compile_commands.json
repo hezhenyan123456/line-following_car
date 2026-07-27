@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"C:/TI/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_11_00_07/source\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"C:/TI/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_11_00_07/source\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"C:/TI/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "C:/Users/hertz ivy/workspace_ccstheia/empty_LP_MSPM0G3507_nortos_ticlang/empty.c"
+   }
+]
